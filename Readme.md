@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Yuliya Zaloznaya](https://up.htmlacademy.ru/adaptive/14/user/674143).
-* Наставник: `Неизвестно`.
+* Наставник: `Никита Сигов`(https://htmlacademy.ru/profile/crazer).
 
 ---
 
